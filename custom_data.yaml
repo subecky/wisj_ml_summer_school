@@ -1,7 +1,7 @@
 train: train/images 
 val: valid/images 
 
-nc: 1
+nc: 7
 
 # Classes
-names: ['amyloid']
+names: ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']
